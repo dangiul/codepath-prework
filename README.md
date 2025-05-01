@@ -16,7 +16,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-![Imgur](https://imgur.com/cuzyx3o)
+![img]https://i.imgur.com/cuzyx3o.gif[/img]
 
 ## App Brainstorming (Step 4)
 1. Instagram
