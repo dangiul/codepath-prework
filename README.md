@@ -5,7 +5,7 @@ Submitted by: **Danny Giuliano**
 
 **Name of your app** is an app that... [TODO] 
 
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
@@ -16,9 +16,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+![Imgur](https://imgur.com/cuzyx3o)
 
 ## App Brainstorming (Step 4)
 1. Instagram
