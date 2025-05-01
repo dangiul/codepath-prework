@@ -1,7 +1,7 @@
 
-# Prework - *Name of App Here*
+# Prework - *Rando BG*
 
-Submitted by: **Your Name Here**
+Submitted by: **Danny Giuliano**
 
 **Name of your app** is an app that... [TODO] 
 
@@ -11,8 +11,8 @@ Time spent: **X** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [X] Users are see a screen with three labels and a button
+- [X] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
 
@@ -21,6 +21,27 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
+1. Instagram
+   -Stories
+   -Reels
+   -Switching profiles without signing out; having more than one profile per acc
+   
+2. Spotify
+   -Joining/starting jams
+   -Filter results by type (playlists, albums, artists, etc.)
+   -Pin playlists
+   
+3. Grindr
+   -Grid interface
+   -Being able to change app icon
+   -Tap feature
+   
+4. Uber
+   -Image icons for different service options
+   -UI
+   -Navigation bar at bottom of screen
+
+   Social networking app that looks like Grindr but it's for finding friends and queer community/events. Grid interface with profiles displayed, organized by user's choice (distance, estimated compatibility). Different pages for individual profiles, events, and social groups accessible through navigation bar at bottom of screen. 
 
 ## Notes
 
